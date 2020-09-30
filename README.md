@@ -12,7 +12,7 @@ Restart nginx with `/etc/init.d/nginx restart` and restart django with `/etc/ini
 [This]: https://code.djangoproject.com/wiki/DjangoAndNginx
 [docs]: https://docs.djangoproject.com/en/dev/howto/static-files/
 
-## When Things Go Wrong ##
+## at the time of error , do this ##
 Check out [this] if you're having trouble with the path info env variable.
 
 [this]: http://neithere.net/dev/notes/nginx-fcgi-django/
